@@ -13,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/alexeyraspopov/halstead/issues"
   },
-  "homepage": "https://github.com/alexeyraspopov/halstead"
+  "homepage": "https://github.com/alexeyraspopov/halstead",
+  "dependencies": {
+    "acorn": "^1.0.3"
+  }
 }
